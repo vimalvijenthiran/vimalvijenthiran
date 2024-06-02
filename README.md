@@ -8,9 +8,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vimalvijenthiran&label=Profile%20views&color=0e75b6&style=flat" alt="vimalvijenthiran" /> </p>
 
+- 🌍  I'm based in **Sri Lanka**
+
 - 🌱 I’m currently learning **React Native**
 
 - 💬 Ask me about **MERN Stack**
+
+- 🤝  I'm open to collaborating on **Projects**
 
 - 📫 How to reach me **vimalvijenthiran@gmail.com**
 
