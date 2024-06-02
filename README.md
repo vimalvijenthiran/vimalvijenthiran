@@ -1,5 +1,10 @@
-<h1 align="center">Hi 👋, I'm Vimal Vijenthiran</h1>
-<h3 align="center">A passionate fullstack developer from Sri Lanka</h3>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Vimal!;+I'm+a+Full+Stack+Developer;+I'm+a+Mobile+Developer;" />
+</h1>
+
+<h3 align="center"> 🚀 About Me </h3>
+
+🎓 I am Vimal Vijenthiran, currently pursuing a BSc. (Hons) in Information Systems at [Sabaragamuwa University of Sri Lanka](https://www.sab.ac.lk/). I have a strong passion for Full Stack Development and Mobile Development, and I am particularly enthusiastic about deepening my knowledge in JavaScript and Python.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vimalvijenthiran&label=Profile%20views&color=0e75b6&style=flat" alt="vimalvijenthiran" /> </p>
 
