@@ -4,7 +4,7 @@
 
 <h3 align="center"> 🚀 About Me </h3>
 
-🎓 I am Vimal Vijenthiran, currently pursuing a BSc. (Hons) in Information Systems at [Sabaragamuwa University of Sri Lanka](https://www.sab.ac.lk/). I have a strong passion for Full Stack Development and Mobile Development, and I am particularly enthusiastic about deepening my knowledge in JavaScript and Python.
+🎓 I am <b>Vimal Vijenthiran</b>, currently pursuing a BSc. (Hons) in Information Systems at [Sabaragamuwa University of Sri Lanka](https://www.sab.ac.lk/). I have a strong passion for Full Stack Development and Mobile Development, and I am particularly enthusiastic about deepening my knowledge in JavaScript and Python.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vimalvijenthiran&label=Profile%20views&color=0e75b6&style=flat" alt="vimalvijenthiran" /> </p>
 
