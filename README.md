@@ -37,6 +37,10 @@
 
 <blockquote align="left" class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;"><a href="https://www.credly.com/badges/ee35a04b-904a-4b60-9a39-2cc781465ffc/public_url"><img width="90px" height="90px" src="https://images.credly.com/size/680x680/images/591ca2c8-3f26-44c8-93d7-d0c1c134f873/image.png"></a><p class="badgr-badge-name" style="hyphens: auto; overflow-wrap: break-word; word-wrap: break-word;margin: 0; font-size: 10px; font-weight: 600; font-style: normal; font-stretch: normal; line-height: 1.25; letter-spacing: normal; text-align: left; color: #05012c;">Git and GitHub Essentials</p><p class="badgr-badge-date" style="margin: 0; font-size: 8px; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #555555;"><strong style="font-size: 5px; font-weight: bold; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #000;">Awarded:</strong>March 13, 2023</p></blockquote>
 
+
+<h3 align="left"> 💻 Own Holopin Board:</h3>
+
+[![An image of @vimalvijenthiran's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vimalvijenthiran)](https://holopin.io/@vimalvijenthiran)
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vimalvijenthiran&show_icons=true&locale=en&layout=compact" alt="vimalvijenthiran" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vimalvijenthiran&show_icons=true&locale=en" alt="vimalvijenthiran" /></p>
